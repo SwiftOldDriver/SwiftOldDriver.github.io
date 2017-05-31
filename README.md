@@ -1,3 +1,5 @@
-# iOS 成长之路第二期(2017夏) 发布 {docsify-ignore-all}
+# iOS 成长之路2017夏 发布 {docsify-ignore-all}
 
-![2017v2_cover](sources/2017v2_cover.jpg?r=100&h=400)
+<img src="sources/2017v2_cover.jpg" style="max-height:400px;margin:0 auto;"/>
+
+淘宝购买地址：
