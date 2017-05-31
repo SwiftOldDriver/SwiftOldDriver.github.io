@@ -1,6 +1,6 @@
 # iOS 成长之路2017夏 发布 {docsify-ignore-all}
 
-<img src="sources/2017v2_cover.jpg" style="max-height:400px;margin:0 auto;"/>
+经过 3 个月，iOS 成长之路第二期和大家见面啦。
 
 ## 目录
 
