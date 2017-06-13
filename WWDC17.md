@@ -22,10 +22,10 @@
 - Introducing HEIF and HEVC
 
    作者：刘栋，503
-- Working with FEIF and HEVC
+- Working with HEIF and HEVC
 
    作者：刘栋，511
-   
+
 - 更安全的网络通信
 
   作者：joy，701
@@ -42,3 +42,7 @@
 - Introducing Core NFC
 
    作者：方舟，718  
+
+- Build Beter Apps with CloudKit Dashboard
+
+   作者：sing，226 
