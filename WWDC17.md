@@ -68,6 +68,11 @@
 
    博客： http://www.jianshu.com/u/88a056103c02
 
+- 使用 CloudKit 控制台构建更好的应用
+
+  作者：sing_crystal
+
+  博客：[http://www.jianshu.com/u/7a2d2cc38444](http://www.jianshu.com/u/7a2d2cc38444)
 - App 与不断发展的网络安全标准
 
    作者：@Joy_xx ，网易 iOS 工程师
