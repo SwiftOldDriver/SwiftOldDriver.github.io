@@ -3,51 +3,74 @@
 <img src="sources/WWDC17Book.jpeg" style="max-height:500px;margin:0 auto;"/>
 
 ## 上线日期
-预计 7 月中旬上线，介绍 WWDC 17 的一手资料给你。
+预计 9 月完成，现在是预售版本，内容也在完善中，价格为 39 元，正式版售价为 49元 。
+
+购买链接： https://item.taobao.com/item.htm?id=554854402409
 
 ## 目录
-- Introducing Core ML
+- 初探 iOS 上的人工智能：Core ML
 
-  作者：道长，703
+   作者：故胤道长
+
+- 再探 iOS 上的人工智能：Core ML
+
+   作者：故胤道长
 
 - Introducing Drag and Drop
 
-  作者：冬瓜，203
-- What's new in llvm
+   作者：冬瓜
 
-  作者：AloneMonkey，411
-- Introducing ARKit
+   博客：[desgard.com](http://desgard.com)
 
-  作者：张嘉夫
-- Introducing HEIF and HEVC
+- ARKit 介绍：iOS 上的增强现实
 
-   作者：刘栋，503
-- Working with HEIF and HEVC
+   作者：张嘉夫
 
-   作者：刘栋，511
+- 终于iOS11里，我们拥有了傻瓜化的交互式动画
 
-- 更安全的网络通信
+   作者：叶孤城
 
-  作者：joy，701
-- Debuging with Xcode 9
+- Xcode 9 新增调试功能介绍
 
-  作者：王浙剑
+   作者：Damonwong
 
-- Advanced Animations with UIKit
+   博客：http://www.jianshu.com/u/3a9e1894acc2
 
-   作者：叶孤城，230
-- Finding Bugs Using Xcode Runtime Tools
+- 开发者该知道的 HEVC 与 HEIF
 
-   作者：pmst，406  
+   作者：刘栋
+
+- What's New in Foundation
+
+   作者：四娘 @kemchenj，量产型 iOS 程序员
+
+   博客：[kemchenj.github.io](https://kemchenj.github.io)
+
+- What's New in LLVM
+
+   作者：AloneMonkey
+
+   博客：[www.blogfshare.com](http://www.blogfshare.com)
+
 - Introducing Core NFC
 
-   作者：方舟，718  
+   作者：WAMaker，丁香园初级 iOS 工程师
 
-- Build Beter Apps with CloudKit Dashboard
+- 使用 Xcode 运行时工具帮助排查 Bug
 
-   作者：sing，226 
+   作者：PMST
 
-- Updating Your App for iOS 11
+   博客： http://www.jianshu.com/u/596f2ba91ce9
 
-   作者：MM，204
+- 在 WKWebView 中自定义加载内容
+
+   作者：@没故事的卓同学
+
+   博客： http://www.jianshu.com/u/88a056103c02
+
+- App 与不断发展的网络安全标准
+
+   作者：@Joy_xx ，网易 iOS 工程师
+
+   博客：http://www.jianshu.com/u/9c51a213b02e
 
