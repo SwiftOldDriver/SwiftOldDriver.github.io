@@ -7,7 +7,7 @@
 ## 目录
 - Chris Lattner 访谈录(下)
 
-  译者：@故胤道长，亚马逊 iOS 工程师，曾就职于 Uber。
+  译者：@故胤道长，Amazon iOS 工程师，曾就职于 Uber。
 
   博客：http://www.jianshu.com/u/8d5b91490ca5
 
